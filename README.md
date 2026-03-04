@@ -15,5 +15,5 @@ ferramenta ja integra sistema de prompt para criação do vídeo.
 
 ## 💭 Reflexão (Opcional)
 Cada vez mais as ferramentas de criação de videos estão evoluindo e simplificando o processos de criação
-com poucos você ja consegue ter um video com uma qualidade satisfatória.
+com poucos passos você ja consegue ter um video com uma qualidade satisfatória.
 
