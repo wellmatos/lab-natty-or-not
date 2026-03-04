@@ -11,7 +11,7 @@ O roteiro foi criado pensando em um aplicativo de controle de entregas para tran
 ferramenta ja integra sistema de prompt para criação do vídeo.
 
 ## 🚀 Resultados
-O video gerado encontra-se no repositório na pasta Videos!
+O video gerado encontra-se no repositório na pasta Video!
 
 ![logo](./imagens/demo.png)
 
