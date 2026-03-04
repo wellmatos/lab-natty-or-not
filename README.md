@@ -18,6 +18,6 @@ O video gerado encontra-se no repositório na pasta Video!
 
 
 ## 💭 Reflexão (Opcional)
-Cada vez mais as ferramentas de criação de videos estão evoluindo e simplificando o processos de criação
+Cada vez mais as ferramentas de I.A. de criação de videos, estão evoluindo e simplificando o processos de criação,
 com poucos passos você ja consegue ter um video com uma qualidade satisfatória.
 
