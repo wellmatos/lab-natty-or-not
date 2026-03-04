@@ -13,6 +13,8 @@ ferramenta ja integra sistema de prompt para criação do vídeo.
 ## 🚀 Resultados
 ![logo](./imagens/demo.png)
 
+O video gerado encontra-se no repositório na pasta Videos!
+
 ## 💭 Reflexão (Opcional)
 Cada vez mais as ferramentas de criação de videos estão evoluindo e simplificando o processos de criação
 com poucos passos você ja consegue ter um video com uma qualidade satisfatória.
